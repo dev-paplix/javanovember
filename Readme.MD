@@ -1,1 +1,1 @@
-Create a new private and public clas that can get the cars model, make and price and portray it in the terminal
+Create a new private and public classes that can get at least 3 cars, model, make and price from the terminal, and then calculate the average prices of the cars and show it in the terminal.
