@@ -1,0 +1,1 @@
+Create a new private and public clas that can get the cars model, make and price and portray it in the terminal
